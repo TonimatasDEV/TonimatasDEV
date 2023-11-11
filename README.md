@@ -1,7 +1,3 @@
-<p align="center">
-  <title>TonimatasDEV's profile</title>
-</p>
-<h1></h1>
 <div align="center">
   <table>
     <tr>
@@ -23,6 +19,7 @@
     </tr>
   </table>
 </div>
+<h1></h1>
 <div align="center">
   <img width=550 title="Metrics" alt="Metrics" src="github-metrics.svg">
 </div>
