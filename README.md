@@ -8,7 +8,7 @@
       </td>
       <td>
         <a href="https://www.curseforge.com/members/tonimatasdev/projects">
-          <img alt="Downloads" src="https://img.shields.io/static/v1?label=TonimatasDEV&message=OVER%202.5M%20DOWNLOADS&color=393939&labelColor=FF8F00&style=for-the-badge&logo=CurseForge&logoColor=white">
+          <img alt="Downloads" src="https://img.shields.io/static/v1?label=TonimatasDEV&message=OVER%203M%20DOWNLOADS&color=393939&labelColor=FF8F00&style=for-the-badge&logo=CurseForge&logoColor=white">
         </a>
       </td>
       <td>
