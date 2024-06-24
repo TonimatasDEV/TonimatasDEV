@@ -27,5 +27,5 @@
 ## My skills
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare)](https://skillicons.dev/)
 
-## What I'm learning
-[![Skills](https://skillicons.dev/icons?i=docker,bash,cpp,rust,mysql,nginx)](https://skillicons.dev/)
+## What I'm want/currently learning
+[![Skills](https://skillicons.dev/icons?i=docker,bash,cpp,cmake,rust,mysql,nginx)](https://skillicons.dev/)
