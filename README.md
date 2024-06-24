@@ -23,3 +23,9 @@
 <div align="center">
   <img width=550 title="Metrics" alt="Metrics" src="https://gist.githubusercontent.com/TonimatasDEV/7c73f22a466bc8b70357b529b30ded1e/raw/8328ff487f901e6bb5e5fb46b4788f73a3195723/metrics.svg">
 </div>
+
+## My skills
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare)](https://skillicons.dev/)
+
+## What I'm learning
+[![Skills](https://skillicons.dev/icons?i=docker,bash,cpp,rust,mysql,nginx)](https://skillicons.dev/)
