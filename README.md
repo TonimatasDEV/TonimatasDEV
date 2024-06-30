@@ -28,4 +28,4 @@
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare)](https://skillicons.dev/)
 
 ## What I'm want/currently learning
-[![Skills](https://skillicons.dev/icons?i=docker,bash,c,cmake,rust,mysql,nginx)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=docker,bash,c,cmake,rust,mysql,nginx,go)](https://skillicons.dev/)
