@@ -1,13 +1,15 @@
+## About me
+I'm a self-taught Back-End developer. I like do Plugins and Mods for Minecraft.
+
+You can check my active repositories [here](https://github.com/TonimatasDEV?tab=repositories) and my archived repositories [here](https://github.com/tonimatasdev-archive).
+
+Contributing to:
+ - [Ketting](https://github.com/kettingpowered) an hybrid Forge + Spigot minecraft server.
+ - [Server-Software](https://github.com/LeStegii/server-softwares) a list of all non-paid minecraft server implementations.
 
 ## Some stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <div align="center" style="display: flex; justify-content: center;">
-    <img alt="Downloads" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonimatasDEV&disable_animations=true&theme=merko">
-    <td valign="middle">
-      <img alt="My Projects" src="https://github-readme-stats.vercel.app/api?username=TonimatasDEV&show_icons=true&theme=merko">
-    </td>
-  </div>
-</a>
+| <img align="center" alt="Downloads" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonimatasDEV&disable_animations=true&theme=merko"> | <img align="center" alt="My Projects" src="https://github-readme-stats.vercel.app/api?username=TonimatasDEV&show_icons=true&theme=merko"> |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## My skills
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare)](https://skillicons.dev/)
