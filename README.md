@@ -1,5 +1,5 @@
 ## About me
-I'm a self-taught Back-End developer. I like do Plugins and Mods for Minecraft.
+I'm a self-taught Back-End developer. I like doing Plugins and Mods for Minecraft.
 
 You can check my active repositories [here](https://github.com/TonimatasDEV?tab=repositories) and my archived repositories [here](https://github.com/tonimatasdev-archive).
 
