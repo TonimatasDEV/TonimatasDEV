@@ -4,7 +4,7 @@ I'm a self-taught Back-End developer. I like doing Plugins and Mods for Minecraf
 You can check my active repositories [here](https://github.com/TonimatasDEV?tab=repositories) and my archived repositories [here](https://github.com/tonimatasdev-archive).
 
 Contributing to:
- - [Ethene Hosting](https://ethenehosting.com) my own hosting for Minecraft at the moment.
+ - [Ethene Hosting](https://ethenehosting.com) my own hosting for Minecraft.
  - [Server-Software](https://github.com/LeStegii/server-softwares) a list of all non-paid minecraft server implementations.
  - [Ketting](https://github.com/kettingpowered) an hybrid Forge + Spigot minecraft server.
 
