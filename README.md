@@ -15,7 +15,7 @@ Contributing to:
 The top languages is not accurate, it only counts my profile repositories.
 
 ## My skills
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare,nginx)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=java,go,kotlin,gradle,spring,html,css,git,github,gitlab,idea,vscode,cloudflare,nginx)](https://skillicons.dev/)
 
 ## What I'm currently learning
-[![Skills](https://skillicons.dev/icons?i=docker,bash,mysql,go,lua,ts,js,php,webstorm,phpstorm,npm,nodejs)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=docker,bash,mysql,lua,ts,js,php,webstorm,phpstorm,npm,nodejs)](https://skillicons.dev/)
