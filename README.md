@@ -20,7 +20,7 @@ The top languages is not accurate, it only counts my profile repositories.
 #### Technologies
 [![Skills](https://skillicons.dev/icons?i=gradle,maven,spring,sqlite,mysql)](https://skillicons.dev/)
 #### Software
-[![Skills](https://skillicons.dev/icons?i=git,github,cloudflare,idea,webstorm,vscode,nginx,gitlab,githubactions,postman)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=git,github,cloudflare,idea,webstorm,vscodium,nginx,gitlab,githubactions,postman)](https://skillicons.dev/)
 
 ## What I'm currently learning
 [![Skills](https://skillicons.dev/icons?i=docker,bash,lua,postgresql)](https://skillicons.dev/)
