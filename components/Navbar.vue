@@ -5,17 +5,23 @@
         <NuxtLink to="/">TonimatasDEV</NuxtLink>
       </div>
       <ul class="flex space-x-8">
-        <li><NuxtLink to="/" class="hover:text-gray-400 underline-offset-1 underline">Home</NuxtLink></li>
-        <li><NuxtLink to="https://stats.tonimatas.dev" class="hover:text-gray-400">Stats</NuxtLink></li>
-        <li><NuxtLink to="https://status.tonimatas.dev" class="hover:text-gray-400">Status</NuxtLink></li>
         <li>
-          <NuxtLink to="https://github.com/TonimatasDEV" target="_blank" external class="hover:text-gray-400">
-            <Icon name="uil:github" style="color: white" size="25px"/>
+          <NuxtLink class="hover:text-gray-400 underline-offset-1 underline" to="/">Home</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink class="hover:text-gray-400" to="https://stats.tonimatas.dev">Stats</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink class="hover:text-gray-400" to="https://status.tonimatas.dev">Status</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink class="hover:text-gray-400" external target="_blank" to="https://github.com/TonimatasDEV">
+            <Icon name="uil:github" size="25px" style="color: white"/>
           </NuxtLink>
         </li>
       </ul>
     </div>
   </nav>
 </template>
-<script setup lang="ts">
+<script lang="ts" setup>
 </script>
