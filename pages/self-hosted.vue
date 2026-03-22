@@ -1,6 +1,4 @@
 <template>
-  <title>TonimatasDEV</title>
-
   <div class="mt-8">
     <div class="flex justify-center">
       <h1 class="text-2xl">Self-Hosted software</h1>
