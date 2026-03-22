@@ -7,7 +7,7 @@
       <StatsModpacksWithGraph name="Mekanism Curios" id="77177"/>
     </div>
 
-    <StatsBarGraph title="CurseForge downloads" api="curseforge"/>
+    <StatsBarGraph title="CurseForge downloads" api="cfwidget"/>
     <StatsBarGraph title="Modrinth downloads" api="modrinth"/>
     <StatsBarGraph title="SpigotMC downloads" api="spiget"/>
     <StatsBarGraph title="Hangar downloads" api="hangar"/>

@@ -18,7 +18,7 @@ defineProps({
 })
 
 onMounted(async () => {
-  const response = await fetch("https://stats.tonimatas.dev/api/" + __props.api)
+  const response = await fetch("https://stats-projects.tonimatas.dev/" + __props.api)
   const data = await response.json()
   const names = data?.names || []
   const values = data?.values || []
@@ -26,7 +26,7 @@ onMounted(async () => {
   instance = echarts.init(chart.value, 'dark')
 
   const option = {
-    backgroundColor: '#1d1d1d',
+    backgroundColor: '#131313',
     title: {
       text: __props.title,
       left: 'center'
@@ -70,11 +70,11 @@ onBeforeUnmount(() => {
 })
 </script>
 <template>
-  <div class="flex flex-col items-center justify-center w-full h-[400px] relative">
+  <div class="flex flex-col items-center justify-center w-full h-100 relative">
     <div v-if="isLoading" class="absolute inset-0 flex items-center justify-center">
       <h1 class="text-white text-lg">Loading...</h1>
     </div>
 
-    <div ref="chart" class="w-full h-[400px] z-0" />
+    <div ref="chart" class="w-full h-100 z-0" />
   </div>
 </template>
