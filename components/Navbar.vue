@@ -30,19 +30,19 @@
             Home
           </NuxtLink>
 
-          <NuxtLink to="https://stats.tonimatas.dev" class="navbar-link" exactActiveClass="active-link">
+          <NuxtLink to="/stats" class="navbar-link" exactActiveClass="active-link">
             <Icon name="uil:analytics"></Icon>
             Stats
-          </NuxtLink>
-
-          <NuxtLink to="https://status.tonimatas.dev" class="navbar-link" exactActiveClass="active-link">
-            <Icon name="uil:arrow-circle-up"></Icon>
-            Status
           </NuxtLink>
 
           <NuxtLink to="/self-hosted" class="navbar-link" exactActiveClass="active-link">
             <Icon name="uil:server"></Icon>
             Self-Hosted
+          </NuxtLink>
+
+          <NuxtLink to="https://status.tonimatas.dev" class="navbar-link" exactActiveClass="active-link">
+            <Icon name="uil:arrow-circle-up"></Icon>
+            Status
           </NuxtLink>
         </div>
       </div>
