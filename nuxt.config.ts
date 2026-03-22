@@ -10,5 +10,11 @@ export default defineNuxtConfig({
     serverBundle: {
       collections: ['uil']
     }
+  },
+  app: {
+    pageTransition: {
+      name: 'page',
+      mode: 'out-in'
+    }
   }
 })
