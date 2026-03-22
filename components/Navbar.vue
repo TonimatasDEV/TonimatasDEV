@@ -6,7 +6,7 @@
       </div>
       <ul class="flex space-x-8">
         <li>
-          <NuxtLink class="hover:text-gray-400 underline-offset-1 underline" to="/">Home</NuxtLink>
+          <NuxtLink class="hover:text-gray-400" to="/" exact-active-class="text-gray-400 underline-offset-1 underline">Home</NuxtLink>
         </li>
         <li>
           <NuxtLink class="hover:text-gray-400" to="https://stats.tonimatas.dev">Stats</NuxtLink>
