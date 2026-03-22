@@ -15,6 +15,9 @@
           <NuxtLink class="hover:text-gray-400" to="https://status.tonimatas.dev">Status</NuxtLink>
         </li>
         <li>
+          <NuxtLink class="hover:text-gray-400" to="/self-hosted" exact-active-class="text-gray-400 underline-offset-1 underline">Self-Hosted</NuxtLink>
+        </li>
+        <li>
           <NuxtLink class="hover:text-gray-400" external target="_blank" to="https://github.com/TonimatasDEV">
             <Icon name="uil:github" size="25px" style="color: white"/>
           </NuxtLink>
