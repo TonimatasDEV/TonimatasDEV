@@ -8,7 +8,7 @@
     <div class="flex justify-center">
       <div class="flex flex-col items-center">
         <NuxtLink class="text-blue-400 underline" to="https://panel.tonimatas.dev" target="_blank">Pelican Panel</NuxtLink>
-        <NuxtLink class="text-blue-400 underline"  to="https://node.tonimatas.dev" target="_blank">Wings</NuxtLink>
+        <NuxtLink class="text-blue-400 underline"  to="https://node.tonimatas.dev:8080" target="_blank">Wings</NuxtLink>
         <NuxtLink class="text-blue-400 underline"  to="https://github-stats.tonimatas.dev/" target="_blank">GitHub Readme Stats</NuxtLink>
         <NuxtLink class="text-blue-400 underline"  to="https://chartdb.tonimatas.dev/" target="_blank">ChartDB</NuxtLink>
         <NuxtLink class="text-blue-400 underline"  to="https://cloud.tonimatas.dev/" target="_blank">Nextcloud</NuxtLink>
