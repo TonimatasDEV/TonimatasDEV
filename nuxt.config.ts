@@ -12,9 +12,25 @@ export default defineNuxtConfig({
     }
   },
   app: {
+    head: {
+      title: 'TonimatasDEV',
+      htmlAttrs: {
+        lang: 'en'
+      },
+      meta: [
+        {
+          name: 'TonimatasDEV',
+          content: 'Personal website.',
+        }
+      ]
+    },
     pageTransition: {
       name: 'page',
       mode: 'out-in'
     }
+  },
+  sourcemap: {
+    server: false,
+    client: true
   }
 })

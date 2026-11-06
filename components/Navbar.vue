@@ -3,11 +3,11 @@
 
 @layer base {
   .navbar-link {
-    @apply flex items-center gap-1 hover:text-gray-400 hover:scale-110 transition-all duration-150 ease-out;
+    @apply flex items-center gap-1 hover:text-gray-300 hover:scale-110 transition-all duration-150 ease-out;
   }
 
   .active-link {
-    @apply text-gray-500 pointer-events-none;
+    @apply text-gray-400 pointer-events-none;
   }
 }
 </style>
@@ -47,7 +47,7 @@
         </div>
       </div>
 
-      <NuxtLink to="https://github.com/TonimatasDEV" class="navbar-link text-xl" exactActiveClass="active-link">
+      <NuxtLink to="https://github.com/TonimatasDEV" class="navbar-link text-xl" exactActiveClass="active-link" aria-label="TonimatasDEV GitHub profile">
         <Icon name="uil:github" size="25px" style="color: white"/>
       </NuxtLink>
     </div>
